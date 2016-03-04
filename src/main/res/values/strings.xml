@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AudioSMap</string>
+    <string name="title_activity_main_map">Map</string>
+    <string name="click_for_more_detail">Click For More Detail</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="upload_time">Upload Time</string>
+    <string name="lat_lng_format">%1$.2f%2$c, %3$.2f%4$c</string>
+    <string name="attachments">Attachments</string>
+    <string name="untitle">UnTitle</string>
+    <string name="media_progress_pattern" translatable="false">%1$d / %2$d</string>
+</resources>
